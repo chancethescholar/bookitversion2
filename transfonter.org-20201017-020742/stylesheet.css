@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'American Typewriter';
+    src: url('AmericanTypewriter-Light.woff2') format('woff2'),
+        url('AmericanTypewriter-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
